@@ -7,7 +7,7 @@ package inventorysystem;
 
 /**
  *
- * @author Moosa Raza1
+ * @author Muneeb Riaz
  *
  */
 import static java.lang.Double.parseDouble;
